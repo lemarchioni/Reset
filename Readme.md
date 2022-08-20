@@ -20,7 +20,7 @@ Pois caso o `reset.css` for adicionado no meio do projeto, por exemplo, pode ger
 
 ## Linkando...
 
-Em seu arquivo html, dentro da tag head, utilize a tag link, para chamar o arquivo em que estará o seu reset CSS, como no exemplo:
+Em seu arquivo `.html`, dentro da tag `<head>`, utilize a tag `<link>`, para chamar o arquivo em que estará o seu reset CSS, como no exemplo:
 
 `<link rel="stylesheet" href="reset.css">`
 
